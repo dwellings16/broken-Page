@@ -9,7 +9,7 @@ p {
   color: #b9a79f;
 }
 nav, footer {
-  background-color: #272727;
+  background-color: #b9a79f;
 }
 footer {
   text-align: center;
@@ -74,8 +74,9 @@ article figure {
   margin: 0 0 1.25em 1.25em;
 }
 article figcaption {
-  font-family: "pt" sans-serif;
-  font-size: 5px
+  font-family: "gentium book basic" serif;
+  font-size: 15px;
+  color: #f5f5f5;
 }
 .pagination {
   color: #272727;
